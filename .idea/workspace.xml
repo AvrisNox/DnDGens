@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d8c520f-3ded-49ca-a892-78d056c1fd2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multilib.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/Searches.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/collections/ConcArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/collections/ConcDualList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/collections/ConcDualMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/collections/ConcGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/collections/ConcHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/collections/ConcLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/collections/ConcPriorityQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/collections/ConcQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/collections/ConcTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/control/Channel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/control/Monitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/control/Mutex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/control/Semaphore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/organizer/Organizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/organizer/Viewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/threads/EternalThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/threads/GenericThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/threads/InterruptThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/threads/MinionThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/threads/PriorityThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/concurrent/threads/SystemThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/doc_storage/FileAccessoryFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/doc_storage/JSONFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/doc_storage/TextFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/doc_storage/XMLFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/Searches.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/Sorts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/collections/ArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/collections/DualList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/collections/DualMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/collections/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/collections/HashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/collections/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/collections/PriorityQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/collections/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/collections/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/components/Action.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/components/Connection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/components/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/components/Vertex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/machines/NeuralNet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/machines/StateAutomata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/machines/StateMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/machines/TuringMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/misc/GraphCompleter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/misc/MachineDeterminator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/graph/misc/RandomGen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/network/ReceiveGram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/network/ReceiveStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/network/SendGram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/avrisnox/util/network/SendStream.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/Objective.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="95" column="5" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Objective#0;class#Objective#0" />
+                <element signature="method#Objective#1;class#Objective#0" />
+                <element signature="method#addChild#0;class#Objective#0" />
+                <element signature="method#remChild#0;class#Objective#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/QuestCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/ObjectiveTypes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/Reward.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/QuestModifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/QuestCardGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/Objectives.java" />
+        <option value="$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/QuestCardGenerator.java" />
+        <option value="$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/Broker.java" />
+        <option value="$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/QuestModifier.java" />
+        <option value="$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/Objective.java" />
+        <option value="$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/ObjectiveTypeObject.java" />
+        <option value="$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/QuestCard.java" />
+        <option value="$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/ObjectiveTypes.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="957" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DnDGens" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DnDGens" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d8c520f-3ded-49ca-a892-78d056c1fd2a" name="Default Changelist" comment="" />
+      <created>1586376255115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586376255115</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12846482" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/QuestModifierObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/Broker.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/ObjectiveTypeObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/Objective.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="95" column="5" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Objective#0;class#Objective#0" />
+            <element signature="method#Objective#1;class#Objective#0" />
+            <element signature="method#addChild#0;class#Objective#0" />
+            <element signature="method#remChild#0;class#Objective#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/QuestCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/Reward.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/QuestModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/QuestCardGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/avrisnox/dndgens/QuestCardGenerator/ObjectiveTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
